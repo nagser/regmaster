@@ -1,0 +1,94 @@
+/*system*/
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+
+
+body {
+	padding-bottom: 20px;
+	background: url(images/crossword.png);
+	margin-bottom: 60px;
+
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+table td {
+	vertical-align: middle !important;
+	padding: 8px 15px !important;
+}
+
+.navbar {
+	margin-bottom: 20px;
+	border-radius: 0;
+}
+
+.no-margin {
+	margin: 0;
+}
+
+.no-padding {
+	padding: 0;
+}
+
+.content {
+	padding: 0 15px;
+}
+
+.admin_menu a, .admin_menu a li {
+	color: #777;
+}
+
+.admin_menu a .list-group-item {
+	color: #fff;
+	background: #777;
+	border: none;
+}
+
+.admin_menu a:hover .list-group-item, .admin_menu a.active .list-group-item  {
+	color: #fff;
+	background: #428BCA;
+	border: none;
+}
+
+.admin_menu a:hover span, .admin_menu a.active span {
+	color: #428BCA;
+}
+
+.text-left {
+	text-align: left !important;
+}
+
+.form-signin {
+	max-width: 330px;
+	margin: 0 auto;
+}
+
+a.delete {
+	/*color: #A1252D;*/
+}
+
+.file-control {
+    padding: 0;
+    height: auto;
+    line-height: inherit;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #f5f5f5;
+}
+
+.min-width {
+	width: 1px;
+	white-space: nowrap;
+}
+
+/*//system*/

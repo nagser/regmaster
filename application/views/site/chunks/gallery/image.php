@@ -1,0 +1,1 @@
+<a href="articles/view/<?= $alias ?>"><img src="http://placehold.it/320x200" class="img-rounded img-responsive" alt=""/></a>
